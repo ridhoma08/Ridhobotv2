@@ -1,5 +1,5 @@
 {
-  "name": "Sadbotz",
+  "name": "RIDHOBOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "RAMLAN",
+  "author": "RidhoMaulanaAbdi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan666/sadbotv2.git"
+    "url": "https://github.com/ridhoma08/Ridhobotv2.git"
   },
   "bugs": {
-    "url": "https://github.com/Ramlan666/sadbotv2/issues"
+    "url": "https://github.com/ridhoma08/Ridhobotv2.git/issues"
   },
-  "homepage": "https://github.com/Ramlan666/sadbotv2#readme"
+  "homepage": "https://github.com/ridhoma08/Ridhobotv2.git#readme"
 }
